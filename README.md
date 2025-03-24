@@ -9,6 +9,7 @@ After downloading the dataset, the first thing I did was to go through it, famil
 ## Key Insights and Recommendations for each task
 ### TASK 1: Customer demographics and purchase behavior: you are to group the customer age into two groups young (below 35 years) and old (above 36) and compare which group spends more on products, which category each group patronizes more and their income level.
 I created a new column named “age group”, then grouped the customer age into young and old using IF statement, then I used pivot table to carry out my analysis.
+
 ###KEY INSIGHTS DISCOVERED: 
 Young Customers Spend More Than Older Customers
 o	Total purchase amount for young customers (147,566) is higher than for older customers (127,497).
