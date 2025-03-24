@@ -19,6 +19,7 @@ o	This could indicate brand loyalty or a preference for quality over quantity in
 •	Old customers' highest spending categories:
 - Jewelry & Accessories ($8,697)
 -	Toys & Games ($8,217)
+### View Dashboard Intercation
 -Sports & Outdoors ($6,689)
 •	Young customers' highest spending categories:
 - Software & Apps ($8,061)
