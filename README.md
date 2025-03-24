@@ -139,4 +139,9 @@ I used pivot table to carry out this analysis.
   - Since these essential products have high returns, focus on better materials, packaging, and durability.
   - To discourage impulse returns, implement a restocking fee or provide returns as store credit instead of cash refunds
 
+- Dashboard Interaction <a href="https://github.com/blessingajidahun/Exploratory-Data-Analysis/blob/main/Image.PNG">View dashboard</a>
+
+### Dashbaord
+![Image](https://github.com/user-attachments/assets/ba1f5577-474c-4f7f-aed2-4300e71312fc)
+
 
