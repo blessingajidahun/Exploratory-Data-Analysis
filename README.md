@@ -1,8 +1,8 @@
 # Consumer Behaviour Analysis
-##Problem:
+## Problem:
 Online retailers need to understand customer purchasing patterns and delivery preferences to optimize product recommendations, inventory planning, and delivery logistics. Without clear insight into how customers behave, decisions are based on guesswork rather than data.
 
-##Objective:
+## Objective:
 Analyze the e-commerce consumer dataset to identify high-value customer segments, popular products, delivery preferences, and actionable trends that support data-driven decision-making.
 
 ## Project Ojectives
