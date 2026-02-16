@@ -1,5 +1,10 @@
 # Consumer Behaviour Analysis
-I carried out an exploratory data analysis on this consumer dataset to uncover trends and insights, the processes include data cleaning, data processing and visualizations of my findings.
+##Problem:
+Online retailers need to understand customer purchasing patterns and delivery preferences to optimize product recommendations, inventory planning, and delivery logistics. Without clear insight into how customers behave, decisions are based on guesswork rather than data.
+
+##Objective:
+Analyze the e-commerce consumer dataset to identify high-value customer segments, popular products, delivery preferences, and actionable trends that support data-driven decision-making.
+
 ## Project Ojectives
 An e-commerce store wans to carry out Exploratory Data Analysis on their past consmer data to uncover trends and patterns in the business.
 ## Dataset Used
