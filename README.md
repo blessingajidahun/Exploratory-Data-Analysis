@@ -35,6 +35,7 @@ Correlations between product type and delivery choice
 
 ## 📌 Role & Contribution
 Sole analyst responsible for data preparation, exploratory analysis, visualization design, and interpretation of results.
+
 Translated complex data patterns into clear visual insights understandable by non-technical stakeholders.
 
 - Dashboard Interaction <a href="https://github.com/blessingajidahun/Exploratory-Data-Analysis/blob/main/Image.PNG">View dashboard</a>
