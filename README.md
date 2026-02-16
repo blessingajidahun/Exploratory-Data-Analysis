@@ -11,11 +11,9 @@ Analyze the e-commerce consumer dataset to identify high-value customer segments
 
 ### Data Cleaning:
 Cleaned the data by handling missing values, correcting data types, and standardizing categorical fields to ensure accuracy and consistency.
-
 ### Exploratory Data Analysis (EDA):
 Conducted pivot table analysis in Excel to understand transaction volumes, customer order patterns, and delivery method preferences.
 Identified key trends across product categories and geographic regions.
-
 ### Visualization & Insights:
 Built interactive dashboards using Excel PivotCharts to represent key performance indicators (KPIs) such as:
 Most frequently purchased products
