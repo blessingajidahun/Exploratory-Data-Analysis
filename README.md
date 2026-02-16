@@ -22,7 +22,7 @@ Peak purchase times
 Preferred delivery types
 Correlations between product type and delivery choice
 
-🧰 ## Tools Used
+## 🧰 Tools Used
 Microsoft Excel: Pivot Tables, PivotCharts, data cleaning, trend analysis
 E-commerce Consumer Dataset (kaggle): Source data for analysis
 
