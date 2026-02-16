@@ -24,9 +24,10 @@ Correlations between product type and delivery choice
 
 ## 🧰 Tools Used
 Microsoft Excel: Pivot Tables, PivotCharts, data cleaning, trend analysis
+
 E-commerce Consumer Dataset (kaggle): Source data for analysis
 
-📈### Key Results & Business Impact
+📈 ### Key Results & Business Impact
 Identified the top 5 product categories that generate the highest purchase frequency, enabling targeted inventory replenishment and marketing focus.
 Discovered that delivery preferences vary significantly by region, suggesting a need for region-specific logistics strategies to improve delivery satisfaction.
 Created interactive dashboards that highlight actionable trends, supporting decision-makers with clear, visual insights instead of raw spreadsheets.
