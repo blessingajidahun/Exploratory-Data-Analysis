@@ -5,15 +5,23 @@ Online retailers need to understand customer purchasing patterns and delivery pr
 ## Objective:
 Analyze the e-commerce consumer dataset to identify high-value customer segments, popular products, delivery preferences, and actionable trends that support data-driven decision-making.
 
-## Project Ojectives
-An e-commerce store wans to carry out Exploratory Data Analysis on their past consmer data to uncover trends and patterns in the business.
 ## Dataset Used
 <a href="https://github.com/blessingajidahun/Exploratory-Data-Analysis/blob/main/ecommerce_consumer_behavior_analysis_data.csv">Dataset</a>
-## Processes
-After downloading the dataset, the first thing I did was to go through it, familiarize myself with what each column meant, then I checked for duplicate values, there was none, I also checked for blank cells, there was none. This means the dataset is clean and I can go on with my analysis. I used pivot table majorly for this analysis and certain functions like CORREL and IF statements.
-## Key Insights and Recommendations for each task
-### TASK 1: Customer demographics and purchase behavior: you are to group the customer age into two groups young (below 35 years) and old (above 36) and compare which group spends more on products, which category each group patronizes more and their income level.
-I created a new column named “age group”, then grouped the customer age into young and old using IF statement, then I used pivot table to carry out my analysis.
+## Approach
+
+### Data Cleaning:
+Cleaned the data by handling missing values, correcting data types, and standardizing categorical fields to ensure accuracy and consistency.
+
+### Exploratory Data Analysis (EDA):
+Conducted pivot table analysis in Excel to understand transaction volumes, customer order patterns, and delivery method preferences.
+Identified key trends across product categories and geographic regions.
+
+### Visualization & Insights:
+Built interactive dashboards using Excel PivotCharts to represent key performance indicators (KPIs) such as:
+Most frequently purchased products
+Peak purchase times
+Preferred delivery types
+Correlations between product type and delivery choice
 
 #### Key Insights Discovered:
 Young Customers Spend More Than Older Customers
